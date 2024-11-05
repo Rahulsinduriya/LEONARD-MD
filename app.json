@@ -2,7 +2,7 @@
   "name":"LEONARD-MD",
   "description":"Best whatsapp bot developed by Leonard Tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/awcix5.jpg",
+  "logo":"https://files.catbox.moe/vmibx0.jpg",
   "repository":"https://github.com/leonardtech01/LEONARD-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/awcix5.jpg",
+      "value":"https://files.catbox.moe/vmibx0.jpg",
       "required":false
        
      },
