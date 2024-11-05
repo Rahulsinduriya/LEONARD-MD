@@ -140,6 +140,23 @@ star✨ my repo if you like this bot🤖
     <a href='https://dashboard.render.com/select-repo?type=web' target="_darkblue"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=render&logoColor=white'/></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+
+
+
+[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+**OWNER**
+<p align="centre">
+  <a href="https://wa.me/message/255655192476">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+
    ###
 
 CONTACT DEVELOPER ON WHATSAPP 
